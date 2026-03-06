@@ -5,7 +5,7 @@ import { Users, Calendar, MessageCircle, Clock, Check } from 'lucide-react';
 
 const formatItems = [
   { icon: Users, text: 'Группа: 4–12 человек' },
-  { icon: Calendar, text: 'Встречи: 1 раз в неделю, офлайн в Феодосии' },
+  { icon: Calendar, text: 'Встречи: 1-2 раза в неделю, офлайн в Феодосии' },
   { icon: MessageCircle, text: 'Поддержка: ежедневно онлайн (проверка задач, вопросы, не даю расслабиться)' },
   { icon: Clock, text: 'Длительность: 3 месяца, оплата помесячно' },
 ];
