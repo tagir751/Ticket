@@ -38,7 +38,7 @@ export default function VideoSection() {
                 </div>
               </motion.div>
               <p className="text-white/60 text-center px-8">
-                [МЕСТО ДЛЯ ВИДЕО ИЗ ВК]
+                [ВИДЕО]
               </p>
               <p className="text-slate-text text-sm mt-4 text-center px-8">
                 360×640px или адаптивная высота
