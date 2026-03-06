@@ -30,15 +30,12 @@ export default function InstructorSection() {
                 whileHover={{ boxShadow: '0 0 40px rgba(255, 107, 53, 0.3)' }}
                 className="w-48 h-48 lg:w-64 lg:h-64 rounded-full overflow-hidden border-4 border-orange/30 transition-all duration-300"
               >
-                {/* Placeholder for photo */}
-                <div className="w-full h-full bg-gradient-to-br from-dark to-dark-card flex items-center justify-center">
-                  <div className="text-center">
-                    <div className="w-24 h-24 lg:w-32 lg:h-32 mx-auto mb-2 rounded-full bg-orange/20 flex items-center justify-center">
-                      <span className="text-4xl lg:text-5xl font-bold text-orange">Т</span>
-                    </div>
-                    <p className="text-xs text-slate-text">tagir.png</p>
-                  </div>
-                </div>
+                {/* Photo */}
+                <img
+                  src="/tagir.png"
+                  alt="Тагир"
+                  className="w-full h-full object-cover"
+                />
               </motion.div>
 
               {/* Decorative ring */}
