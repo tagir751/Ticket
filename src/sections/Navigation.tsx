@@ -33,7 +33,7 @@ export default function Navigation() {
                 isScrolled ? 'text-dark' : 'text-white'
               }`}
             >
-              Архитектура Смысла
+              Мастерская мышления
             </span>
           </div>
 
