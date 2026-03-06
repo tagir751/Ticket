@@ -63,8 +63,8 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.4, ease: [0, 0, 0.2, 1] }}
           className="text-base sm:text-lg text-slate-text max-w-2xl mx-auto mb-10"
         >
-          Феодосия. Город без IT-заводов и перспектив. 
-          Но с ноутбуком и правильной головой — ты не привязан к местности.
+          Феодосия. Город без IT и перспектив. 
+          Но с ноутбуком и правильной головой — ты не привязан к месту.
         </motion.p>
 
         <motion.div
