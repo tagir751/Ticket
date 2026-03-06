@@ -48,7 +48,7 @@ export default function SolutionSection() {
           className="text-center mb-12 lg:mb-16"
         >
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-4">
-            Мы учим не кнопкам. Мы учим мышлению.
+            Мы не учим нажимать на кнопки. Мы учим мышлению.
           </h2>
           <p className="text-xl text-slate-text">
             Метод PCAM — четыре буквы, которые меняют всё
