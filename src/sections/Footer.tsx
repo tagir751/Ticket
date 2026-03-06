@@ -14,7 +14,7 @@ export default function Footer() {
             className="text-center md:text-left"
           >
             <h3 className="text-xl font-bold text-white mb-1">
-              Архитектура Смысла
+              Мастерская мышления
             </h3>
             <p className="text-sm text-slate-text">
               Тренинг мышления с ИИ
@@ -59,7 +59,7 @@ export default function Footer() {
           className="mt-10 pt-6 border-t border-white/5 text-center"
         >
           <p className="text-xs text-slate-text/60">
-            © 2025 Архитектура Смысла. Все права защищены.
+            © 2026 Мастерская мышления. Все права защищены.
           </p>
         </motion.div>
       </div>
